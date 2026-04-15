@@ -1,0 +1,5 @@
+agent_name = "exotel-chatbot-dial-out"
+secret_set = "exotel-chatbot"
+
+[scaling]
+	min_agents = 1
